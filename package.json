@@ -1,0 +1,6 @@
+
+{
+  "dependencies": {
+    "some": "git://github.com/subscribers/origin.git"
+  }
+}
